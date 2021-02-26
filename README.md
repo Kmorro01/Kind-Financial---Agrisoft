@@ -60,11 +60,11 @@
 **Agrisoft** offers solution that their competitors do not or cannot offer like: 
 
  *  Cultivation Tracking:
- * Compliance Management:	
- * Processing and Manufacturing:
- * Inventory Management:
- * Supply Chain Management:
- * Dispensary POS:
+ *  Compliance Management:	
+ *  Processing and Manufacturing:
+ *  Inventory Management:
+ *  Supply Chain Management:
+ *  Dispensary POS:
 ---
 
 The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in the largest Consumer Market in the US. The reporting tools are unstable, the regulations are complicated and there are too many rules, but Agrisoft has found ways to reduce the uncertainties in the business with secure and proven solutions in real-time. 
