@@ -44,14 +44,14 @@
 
 <center> Agrisoft has bridged the gap with the following:
 
-    * Detailed Plant Tracking Inventory Management
-    *	Real-time Data Capture
-    * Cash Management and Collection
-    *	Strict Financial and Operational Oversight
-    *	Anti-Money Laundering Compliance Features
-    *	Enterprise Level Reporting
-    *	Top-grade Technology
-    *	Web-based, mobile-friendly interface
+    *  Detailed Plant Tracking Inventory Management
+    *	 Real-time Data Capture
+    *  Cash Management and Collection
+    *	 Strict Financial and Operational Oversight
+    *	 Anti-Money Laundering Compliance Features
+    *	 Enterprise Level Reporting
+    *	 Top-grade Technology
+    *	 Web-based, mobile-friendly interface
 
 ---
 ### Cannabis Growers and Sellers are the intended customer for *Agrisoft*.
@@ -72,7 +72,7 @@ The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in th
     
 Agrisoct technologies are above industry standards allows KindFinancial to set themselves apart.
  
-* Advice IQ,
+*  Advice IQ,
 *  Banksalad,
 *  Fincrew,
 *  Quadrant,
