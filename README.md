@@ -80,5 +80,17 @@ The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in th
 *  Unicorn Bay 
 
 
+* What domain of the financial industry is the company in?
+Payments/Billing
+Lending
+Regulation Technology (RegTech)
+Enterprise Solutions
+---
+
+## Kind Financial offers many domain in the financial industry to include, 
+* Payments/Billing
+* Lending
+* Regulation Technology (RegTech)
+* Enterprise Solutions
 
 
