@@ -71,5 +71,5 @@ The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in th
     
     
 Agrisoct technologies are above industry standards, the use of  
-* Advice IQ, Banksalad,Fincrew, Quadrant, Guidepoint, and Unicorn Bay* allows KindFinancial to set themselves apart.
+* Advice IQ, Banksalad,Fincrew, Quadrant, Guidepoint, and Unicorn Bay * allows KindFinancial to set themselves apart.
  
