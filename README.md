@@ -8,7 +8,7 @@ The Agrisoft platform is used in cannabis dispensaries including cultivation and
  # <center> Domains:
   ## <center> Payments/Billing, 
   ## <center> Lending, 
-  ## <center> Regulation Technology
+  ## <center> Regulation Technology,
  ---
  
 ![image](https://theweedblog-com.exactdn.com/wp-content/uploads/kind-financial.png?strip=all&lossy=1&ssl=1)
