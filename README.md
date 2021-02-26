@@ -59,12 +59,12 @@
 ---
 **Agrisoft** offers solution that their competitors do not or cannot offer like: 
 
-Cultivation Tracking:
-Compliance Management:	
-Processing and Manufacturing:
-Inventory Management:
-Supply Chain Management:
-Dispensary POS:
+*Cultivation Tracking:
+*Compliance Management:	
+*Processing and Manufacturing:
+*Inventory Management:
+*Supply Chain Management:
+*Dispensary POS:
 
     
    
