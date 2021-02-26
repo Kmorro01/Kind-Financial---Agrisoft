@@ -30,7 +30,7 @@
 
 # **Kind Financial Valuation & Funding**
 
-### <center> Deal Type         Date          Amount
+### Deal Type         Date          Amount
 *	Angel (Individual)	    		 08/05/2016     	3.49M
 *	Seed Round				            12/01/2014	     600K
 *	Angel (Individual)      	 06/01/2013   		 600K
