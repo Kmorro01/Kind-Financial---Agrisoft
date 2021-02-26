@@ -44,12 +44,12 @@
 
 <center> Agrisoft has bridged the gap with the following:
 
-    •   Detailed Plant Tracking Inventory Management
-    •	Real-time Data Capture
-    •	Cash Management and Collection
-    •	Strict Financial and Operational Oversight
-    •	Anti-Money Laundering Compliance Features
-    •	Enterprise Level Reporting
+   • Detailed Plant Tracking Inventory Management
+   •	Real-time Data Capture
+   •	Cash Management and Collection
+   •	Strict Financial and Operational Oversight
+   •	Anti-Money Laundering Compliance Features
+   •	Enterprise Level Reporting
     •	Top-grade Technology
     •	Web-based, mobile-friendly interface
 
