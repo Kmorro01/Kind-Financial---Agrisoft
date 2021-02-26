@@ -31,7 +31,7 @@
  **Kind Financial Valuation & Funding**
 
 
-### <center>  Deal Type                 Date               Amount
+### <center>    Deal Type                  Date               Amount
  
 ### <center> *	Angel (Individual)	    		 08/05/2016     	     3.49M
  
