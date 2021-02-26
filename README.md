@@ -43,15 +43,14 @@
 ### Dinenberg, founded the company in 2013 with a goal of providing capital and other services to fill the void in banking services available to cannabis cultivators and retailers, specializing in compliance after the company acquired *Agrisoft* in 2015 to provide they still found financial problems with all the new reglatory rules and regulation created by local and federal goverment and supply and demand issues. 
 
 <center> Agrisoft has bridged the gap with the following:
-
-    *  Detailed Plant Tracking Inventory Management
-    *	 Real-time Data Capture
-    *  Cash Management and Collection
-    *	 Strict Financial and Operational Oversight
-    *	 Anti-Money Laundering Compliance Features
-    *	 Enterprise Level Reporting
-    *	 Top-grade Technology
-    *	 Web-based, mobile-friendly interface
+* Detailed Plant Tracking Inventory Management
+* Real-time Data Capture
+* Cash Management and Collection
+*	Strict Financial and Operational Oversight
+*	Anti-Money Laundering Compliance Features
+*	Enterprise Level Reporting
+*	Top-grade Technology
+*	Web-based, mobile-friendly interface
 
 ---
 ### Cannabis Growers and Sellers are the intended customer for *Agrisoft*.
