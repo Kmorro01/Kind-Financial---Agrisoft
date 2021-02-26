@@ -30,10 +30,10 @@
 
 # **Kind Financial Valuation & Funding**
 
-### Deal Type                 Date               Amount
-*	Angel (Individual)	    		 08/05/2016     	     3.49M
-*	Seed Round				            12/01/2014	          600K
-*	Angel (Individual)      	 06/01/2013   		      600K
+###<center> Deal Type                 Date               Amount
+<center>*	Angel (Individual)	    		 08/05/2016     	     3.49M
+<center>*	Seed Round				            12/01/2014	          600K
+<center>*	Angel (Individual)      	 06/01/2013   		      600K
 ---
 
 ### Dinenberg, founded the company in 2013 with a goal of providing capital and other services to fill the void in banking services available to cannabis cultivators and retailers, specializing in compliance after the company acquired *Agrisoft* in 2015 to provide they still found financial problems with all the new reglatory rules and regulation created by local and federal goverment and supply and demand issues. 
