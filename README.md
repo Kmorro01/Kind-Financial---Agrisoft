@@ -87,7 +87,7 @@ Regulation Technology (RegTech)
 Enterprise Solutions
 ---
 
-## Kind Financial offers many domain in the financial industry to include, 
+### Kind Financial offers many domain in the financial industry to include, 
 * Payments/Billing
 * Lending
 * Regulation Technology (RegTech)
