@@ -55,7 +55,7 @@
 
 ---
 ### Cannabis Growers and Sellers are the intended customer for *Agrisoft*.
-### The reports from cannabis industry analysts BDS Analytics perdict that the legal cannabis market in North America will reach **$23.8 billion** in sales. And a near **20% annual growth rate by 2021** – with more states legalizing cannabis for medical and recreational use the current markets mature and grow to **$46.5 billion within six years**.  The market size, measured by revenue, of the Medical & Recreational Marijuana Growing industry is $12.1bn in 2021. Agrisoft is a one stop shop from seed to sell and meet federal legalization laws in the *US* and *Canada*,
+### The reports from cannabis industry analysts BDS Analytics perdict that the legal cannabis market in North America will reach **$23.8 billion** in sales. And a near **20% annual growth rate by 2021** – with more states legalizing cannabis for medical and recreational use the current markets mature and grow to **$46.5 billion within six years**.  The market size, measured by revenue, of the Medical & Recreational Marijuana Growing industry is $12.1 billionn in 2021. Agrisoft is a one stop shop from seed to sell and meet federal legalization laws in the *US* and *Canada*,
 
     
    
