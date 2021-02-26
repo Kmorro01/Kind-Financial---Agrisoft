@@ -70,6 +70,15 @@
 The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in the largest Consumer Market in the US. The reporting tools are unstable, the regulations are complicated and there are too many rules, but Agrisoft has found ways to reduce the uncertainties in the business with secure and proven solutions in real-time. 
     
     
-Agrisoct technologies are above industry standards, the use of  
-* Advice IQ, Banksalad,Fincrew, Quadrant, Guidepoint, and Unicorn Bay * allows KindFinancial to set themselves apart.
+Agrisoct technologies are above industry standards allows KindFinancial to set themselves apart.
  
+* Advice IQ,
+*  Banksalad,
+*  Fincrew,
+*  Quadrant,
+*  Guidepoint, 
+*  Unicorn Bay 
+
+
+
+
