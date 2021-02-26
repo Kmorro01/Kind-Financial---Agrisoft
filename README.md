@@ -26,7 +26,7 @@ The Agrisoft platform is used in cannabis dispensaries including cultivation and
 * Kind and Agrisoft was funded with the help of Venture Capitalist Wayne Kimmel and Angel Investor Lindy Snider in the amount of 600K.
 ---
 
-Kind Financial Valuation & Funding
+# Kind Financial Valuation & Funding
 
 ## <center> Deal Type~~~~~        Date~~~~           Amount~~~~
 *	Angel (Individual)	~~~~~		08/05/2016	~~~~~~	3.49M
