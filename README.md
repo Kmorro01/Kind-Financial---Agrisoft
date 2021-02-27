@@ -27,7 +27,12 @@
 
 * In 2013 **Kind Financial** was founded with the idea of finding options to provide effective regulatory government management solutions, make loans and provide other services to Marijuana sellers and growers, that traditional banks felt had huge risk factors. They were able to assist with the red tape and bureaucracy and government regulations that were associated with the legalization of Marijuana. 
 
-* **Kind and Agrisoft** was funded with the help of Venture Capitalist *Wayne Kimmel* and Angel Investor *Lindy Snider* in the amount of 600K.
+* **Kind Financial** was funded with the help of Venture Capitalist *Wayne Kimmel* and Angel Investor *Lindy Snider* in the amount of 600K. 
+* Agrisoft is the most advanced and technology drive software and was created intentionally for the cannabis industry, with 100 percent accountability and transparency of reporting meeting every governmentregulation and requirment. Agrisoft are industry experts in law enforcement, regulatory compliance, software development and data security. With hardwork they have compiled their efforts to being one of the best in the business.  Agrisoft's platform documents and reports to goverment agencies every step in cannabis manufacturing, wholesaling and retailing.
+
+* "Kind's acquisition of Agrisoft Development Group's seed-to-sale compliance platform provides us with a critical software and sttate of the art Seed-to-BankingSM solution for the cannabis industry. The combination of the Kind and Agrisoft executive teams represent leading cannabis pioneers and industry experts who share the same vision to support and benefit owners and operators of medicinal and recreational cannabis facilities," said David Dinenberg, Founder and CEO of Kind.
+
+Agrisoft brings to Kind several notable industry leaders.  Advisor Matt Cook, is the nation's top regulatory consultant to the cannabis industry. He assists dozens of states and foreign entities to craft their cannabis statutes and regulations.  In addition, Agrisoft CEO, Charles Ramsey is a noted expert in medical regulatory software, data security, and biometrics authentication which are critical components to comply with government regulations
 ---
 
  **Kind Financial Valuation & Funding**
@@ -115,6 +120,8 @@ Agrisoct technologies are above industry standards allows KindFinancial to set t
 https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=The%20report%20from%20cannabis%20industry,grow%20to%20%2446.5%20billion%20six, (Cannabis Business Plan) 
 
 http://kind.financial/government/
+
+https://www.prnewswire.com/news-releases/kind-financial-acquires-the-assets-of-agrisoft-development-group-300104684.html
 
 https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/, (Microsoft Cannabis Deal Detailed), News Cannibals Venture
 
