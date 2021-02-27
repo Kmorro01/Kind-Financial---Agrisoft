@@ -78,13 +78,6 @@ The unfair advantage is that Agrisoft offers Seed to Sale Solutions and is in th
 *  Quadrant,
 *  Guidepoint, 
 *  Unicorn Bay 
-
-
-* What domain of the financial industry is the company in?
-Payments/Billing
-Lending
-Regulation Technology (RegTech)
-Enterprise Solutions
 ---
 
 ### Kind Financial offers many domain in the financial industry to include, 
@@ -92,5 +85,36 @@ Enterprise Solutions
 * Lending
 * Regulation Technology (RegTech)
 * Enterprise Solutions
+* ---
+* 
+### There has been several major trends and innovations of these domain over the last 5-10 years.
+The brilliance of being able to provide every service needed in the industry from Seed to Sale and to provide funding compliance regulations and product security every step of the way.  Accelerating focus on Digital Transformation, building a Cognitive side to the business, re-thinking the concept of Money and removing the use cash from the industry. Making all transactions transparent is key to the Industry and regulatory Compliance Rules.
+Some Of the major companies in theses Domains are **Ample Organics, Simplifya, BioTrackTHC, Flowhub.
 
+### Many lenders are concerned about lending money to upstart businesses this has been a huge inpact. Traditional lenders and banks will lend money only to established companies that are in a solid financial position. Even if your new business has the ability to get a loan, it may not be enough or the desired amount. As a result, you may be forced to scale down the operation or reconsider opening the business. With Venture Capitalist and Angel Investors the worries of traditional financing have been reduced. 
+
+ 
+### Acquisition Metrics, Activation Metrics, and	Retention Metrics, are some of the core metrics that companies in this domain use to measure success.This has not waivered the proformance of Kind Financial or Agrisoft, based on these metrics. Revenues Metrics report $4 Million,	Marketing Metrics, and Technical Metrics are on target per US News. 
+
+* How is your company performing relative to competitors in the same domain?
+
+
+## Recommendations
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers or use your imagination!)
+________________________________________
+The Cannabis Stock IPO, SPACs Tracker, managed by New Cannabis Ventures, tracks upcoming initial public offerings of cannabis companies within the U.S., Canada and other countries. The tracker provides data on upcoming SPACs (Special Purpose Acquisition Companies) and RTOs (Reverse Takeovers). This tracker will update based on new filings. Companies must file with the SEC, SEDAR or their regulatory authority to be considered for inclusion.
+* Why do you think that offering this product or service would benefit the company?
+Having access to more capital and being able to use stock as currency to make purchases or investments and grow the business are the main advantages of Legalization.
+* What technologies would this additional product or service utilize?
+Payments
+Lending
+Regulation Technology (RegTech)
+Enterprise Solutions
+
+* 
+* 
+* 
+* 
+* 
+* These technologies are apporporiate solutions to the  marijuana industry several companies looking to raise capital to expand and stay ahead of the competition by going public.
 
