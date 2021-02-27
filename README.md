@@ -107,6 +107,7 @@ Agrisoct technologies are above industry standards allows KindFinancial to set t
 #### This service would utilize some of the same practices as the current the current products to include *Payments, Lending Regulation Technology (RegTech) Enterprise Solutions.* These technologies are appropriate solutions to the marijuana industry several companies looking to raise capital to expand and stay ahead of the competition by going public.
 
 ---
+#### Addendum
 #### Resources:
 
 https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=The%20report%20from%20cannabis%20industry,grow%20to%20%2446.5%20billion%20six, (Cannabis Business Plan) 
