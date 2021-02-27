@@ -106,3 +106,11 @@
 #### If I were to advise the company, I would suggest Stock IPO,s. The Cannabis Stock IPO, SPACs Tracker, managed by New Cannabis Ventures, tracks upcoming initial public offerings of cannabis companies within the U.S., Canada and other countries. The tracker provides data on upcoming SPACs (Special Purpose Acquisition Companies) and RTOs (Reverse Takeovers). This tracker will update based on new filings. Companies must file with the SEC, SEDAR or their regulatory authority to be considered for inclusion.I would off this service simpley because having access to more capital and being able to use stock as currency to make purchases or investments and grow the business are the main advantages of Legalization.
 #### This service would utilize some of the same practices as the current the current products to include *Payments,Lending Regulation Technology (RegTech) Enterprise Solutions.* These technologies are apporporiate solutions to the marijuana industry several companies looking to raise capital to expand and stay ahead of the competition by going public.
 
+---
+#### Resources:
+
+https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=The%20report%20from%20cannabis%20industry,grow%20to%20%2446.5%20billion%20six
+http://kind.financial/government/
+https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/
+https://softwareconnect.com/seed-to-sale/#key-features
+https://www.wns.com/insights/articles/articledetail/547/top-trends-in-banking-and-financial-services
