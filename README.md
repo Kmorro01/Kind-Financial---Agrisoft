@@ -1,4 +1,4 @@
-# Kind-Financial - Agrisoft
+#Kind-Financial - Agrisoft
 ---
 
 ### With our country being in one of the most devastating crises ever, the *Covid-19* pandemic has impacted most Americans *physical*, *social* and *emotional* well-being, while plummeting the nation’s economy.  As the country economic is restructured, federal, state, and local governments will be looking for new forms of revenue to replenish depleting budgets and provide jobs to millions of Americans who are now unemployed. Many states across the country have been turning to cannabis businesses as a source of much needed tax revenue reform and employment for many.  Nearly every state with legal cannabis has found marijuana businesses to be pivotal during the *Covid-19* pandemic.
