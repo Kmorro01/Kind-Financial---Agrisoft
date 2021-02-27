@@ -115,7 +115,7 @@ http://kind.financial/government/
 
 https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/,(Microsoft Cannabis Deal Detailed), News Cannibals Venture
 
-https://softwareconnect.com/seed-to-sale/#key-features,(Seed to sale Software)
+https://softwareconnect.com/seed-to-sale/#key-features, (Seed to sale Software)
 
 https://www.wns.com/insights/articles/articledetail/547/top-trends-in-banking-and-financial-services
 
