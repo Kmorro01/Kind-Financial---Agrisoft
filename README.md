@@ -109,18 +109,18 @@
 ---
 #### Resources:
 
-https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=The%20report%20from%20cannabis%20industry,grow%20to%20%2446.5%20billion%20six, Cannabis Business Plan 
+https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=The%20report%20from%20cannabis%20industry,grow%20to%20%2446.5%20billion%20six, (Cannabis Business Plan)
 
 http://kind.financial/government/
 
-https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/,(Microsoft Cannabis Deal Detailed), News Cannibals Venture
+https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/, (Microsoft Cannabis Deal Detailed), News Cannibals Venture
 
 https://softwareconnect.com/seed-to-sale/#key-features, (Seed to sale Software)
 
 https://www.wns.com/insights/articles/articledetail/547/top-trends-in-banking-and-financial-services
 
-https://www.forbes.com/sites/javierhasse/2020/11/19/new-app-allows-you-to-use-credit-cards-to-buy-cannabis/?sh=468a3b316162,(New App allows you to use Credit cards to buy Cannabis)
+https://www.forbes.com/sites/javierhasse/2020/11/19/new-app-allows-you-to-use-credit-cards-to-buy-cannabis/?sh=468a3b316162, (New App allows you to use Credit cards to buy Cannabis)
 
 United States Bureau of Justice Statistics
 
-https://www.newcannabisventures.com/tag/kind-financial/,(Tag Kind Financial)
+https://www.newcannabisventures.com/tag/kind-financial/, (Tag Kind Financial)
