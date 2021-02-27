@@ -8,7 +8,7 @@
 ---
 
  # <center> Domains:
-  ## <center> *Payments/Billing, * 
+  ## <center> *Payments/Billing,* 
   ## <center> *Lending,* 
   ## <center> *Regulation Technology,*
  ---
