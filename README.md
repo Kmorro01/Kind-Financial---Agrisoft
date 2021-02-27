@@ -32,7 +32,6 @@
 
 * "Kind's acquisition of Agrisoft Development Group's seed-to-sale compliance platform provides us with a critical software and sttate of the art Seed-to-BankingSM solution for the cannabis industry. The combination of the Kind and Agrisoft executive teams represent leading cannabis pioneers and industry experts who share the same vision to support and benefit owners and operators of medicinal and recreational cannabis facilities," said David Dinenberg, Founder and CEO of Kind.
 
-Agrisoft brings to Kind several notable industry leaders.  Advisor Matt Cook, is the nation's top regulatory consultant to the cannabis industry. He assists dozens of states and foreign entities to craft their cannabis statutes and regulations.  In addition, Agrisoft CEO, Charles Ramsey is a noted expert in medical regulatory software, data security, and biometrics authentication which are critical components to comply with government regulations
 ---
 
  **Kind Financial Valuation & Funding**
