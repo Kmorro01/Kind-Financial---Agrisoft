@@ -27,7 +27,7 @@
 
 * In 2013 **Kind Financial** was founded with the idea of finding options to provide effective regulatory government management solutions, make loans and provide other services to Marijuana sellers and growers, that traditional banks felt had huge risk factors. They were able to assist with the red tape and bureaucracy and government regulations that were associated with the legalization of Marijuana. 
 
-**Kind and **Agrisoft** was funded with the help of Venture Capitalist *Wayne Kimmel* and Angel Investor *Lindy Snider* in the amount of 600K.
+* **Kind and Agrisoft** was funded with the help of Venture Capitalist *Wayne Kimmel* and Angel Investor *Lindy Snider* in the amount of 600K.
 ---
 
  **Kind Financial Valuation & Funding**
