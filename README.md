@@ -19,7 +19,7 @@
 # <center> Kind Financial
 ### <center> Incororated 2013
 ---
-## <center> David Dinenberg, Founder and CEO
+## <center> David Dinenberg, Founder and CEO Age *44* and Phedelphia *Native*
 ---
 ## <center>Lets talk about Kind Financial and Agrisoft
 
