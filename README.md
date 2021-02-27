@@ -113,7 +113,7 @@ https://cannabusinessplans.com/cannabis-legal-market-size-projections/#:~:text=T
 
 http://kind.financial/government/
 
-https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/, (Microsoft Cannabis Deal Detailed), News Cannibals Venture
+https://www.newcannabisventures.com/microsoft-cannabis-deal-detailed/, (Microsoft Cannabis Deal Detailed), News Cannibals Venture)
 
 https://softwareconnect.com/seed-to-sale/#key-features, (Seed to sale Software)
 
